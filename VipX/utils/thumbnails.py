@@ -125,7 +125,7 @@ async def gen_thumb(videoid, chat_id):
         try:
             draw.text(
                 (20, 0.1),
-                f"VIP MUSIC",
+                f"CYBER X MUSIC",
                 fill="white",
                 stroke_width=0.5,
                 stroke_fill="white",
